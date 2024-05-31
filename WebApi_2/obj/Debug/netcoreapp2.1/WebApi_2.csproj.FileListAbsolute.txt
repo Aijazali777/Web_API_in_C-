@@ -1,0 +1,14 @@
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\bin\Debug\netcoreapp2.1\WebApi_2.deps.json
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\bin\Debug\netcoreapp2.1\WebApi_2.runtimeconfig.json
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\bin\Debug\netcoreapp2.1\WebApi_2.runtimeconfig.dev.json
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\bin\Debug\netcoreapp2.1\WebApi_2.dll
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\bin\Debug\netcoreapp2.1\WebApi_2.pdb
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.csprojAssemblyReference.cache
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.csproj.CoreCompileInputs.cache
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.RazorAssemblyInfo.cache
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.RazorAssemblyInfo.cs
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.AssemblyInfoInputs.cache
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.AssemblyInfo.cs
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.RazorTargetAssemblyInfo.cache
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.dll
+C:\Users\aaijaz\source\repos\WebApi_2\WebApi_2\obj\Debug\netcoreapp2.1\WebApi_2.pdb
